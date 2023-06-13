@@ -4,7 +4,7 @@
 
 ### 2018
 
-[REARGUARD: Secure Keyword Search Using Trusted Hardware](https://ieeexplore.ieee.org/document/8485838)
+[REARGUARD: Secure Keyword Search Using Trusted Hardware](https://ieeexplore.ieee.org/document/8485838),Wenhai Sun; Ruide Zhang; Wenjing Lou; Y. Thomas Hou
 
 ### 2019
 
