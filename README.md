@@ -14,8 +14,6 @@
 
 ### 2020
 
-[TEE-Based Mutual Proofs of Transmission Services in Decentralized Systems](https://ieeexplore.ieee.org/document/9162764), Lifeng Liu; Jian Li; Tim Tingqiu Yuan
-
 [Enabling Execution Assurance of Federated Learning at Untrusted Participants](https://ieeexplore.ieee.org/document/9155414), Xiaoli Zhang; Fengting Li; Zeyu Zhang; Qi Li; Cong Wang; Jianping Wu
 
 ### 2021
