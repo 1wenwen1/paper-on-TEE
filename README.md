@@ -10,7 +10,7 @@
 
 ### 2019
 
-[A Blockchain based Witness Model for Trustworthy Cloud Service Level Agreement Enforcement](https://ieeexplore.ieee.org/document/8737580), Huan Zhou; Xue Ouyang; Zhijie Ren; Jinshu Su; Cees de Laat; Zhiming Zhao
+(Cloud service)[A Blockchain based Witness Model for Trustworthy Cloud Service Level Agreement Enforcement](https://ieeexplore.ieee.org/document/8737580), Huan Zhou; Xue Ouyang; Zhijie Ren; Jinshu Su; Cees de Laat; Zhiming Zhao
 
 [CFHider: Control Flow Obfuscation with Intel SGX](https://ieeexplore.ieee.org/document/8737444), Yongzhi Wang; Yulong Shen; Cuicui Su; Ke Cheng; Yibo Yang; ANter Faree; Yao Liu
 
@@ -18,7 +18,7 @@
 
 [Enabling Execution Assurance of Federated Learning at Untrusted Participants](https://ieeexplore.ieee.org/document/9155414), Xiaoli Zhang; Fengting Li; Zeyu Zhang; Qi Li; Cong Wang; Jianping Wu
 
-[EncELC: Hardening and Enriching Ethereum Light Clients with Trusted Enclaves](https://ieeexplore.ieee.org/document/9155385), Chengjun Cai; Lei Xu; Anxin Zhou; Ruochen Wang; Cong Wang; Qian Wang
+(Ethereum light client)[EncELC: Hardening and Enriching Ethereum Light Clients with Trusted Enclaves](https://ieeexplore.ieee.org/document/9155385), Chengjun Cai; Lei Xu; Anxin Zhou; Ruochen Wang; Cong Wang; Qian Wang
 
 ### 2021
 
