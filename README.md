@@ -15,6 +15,7 @@
 ### 2020
 
 [Enabling Execution Assurance of Federated Learning at Untrusted Participants](https://ieeexplore.ieee.org/document/9155414), Xiaoli Zhang; Fengting Li; Zeyu Zhang; Qi Li; Cong Wang; Jianping Wu
+[EncELC: Hardening and Enriching Ethereum Light Clients with Trusted Enclaves](https://ieeexplore.ieee.org/document/9155385), Chengjun Cai; Lei Xu; Anxin Zhou; Ruochen Wang; Cong Wang; Qian Wang
 
 ### 2021
 
